@@ -21,3 +21,6 @@ Suggested eccentric billionaires:
 * GEMIMA, an 'artistic mime entity and wannabe hivemind'
 
 Do be any other eccentric billionaire that takes your fancy and have fun tormenting your investments!
+
+Hugs and kisses,
+Bettie Borgia (no relation)
