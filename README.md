@@ -11,7 +11,7 @@ Suggested levels and forms of activity for eccentric billionaires:
 * Contact your group once their product shows ***undeniable acquisition potential*** (probably after an hour or so of work)
 * Make your offer (training in exchange for a controlling stake in the company). Do try and sell the prospect, but some groups may want to focus on other learning areas than client management. That is allowed.
 * If the deal is accepted arrange a client meeting and prepare some outrageous expectations; link the group to pivotal tracker beforehand
-* You should probably tell the group you only have ten minutes for a meeting. Schedule an hour. See how much pivotal processing you can get done. The rest can be continued 'remotely'.
+* You should probably tell the group you only have ten minutes for a meeting. Schedule half an hour. See how much pivotal processing you can get done. The rest can be continued 'remotely'.
 * Perform reviews of the stories once a day. Leave unhelpful feedback but clarify when pressed. Use IE8.
 
 Suggested eccentric billionaires:
