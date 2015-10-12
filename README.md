@@ -22,5 +22,5 @@ Suggested eccentric billionaires:
 
 Do be any other eccentric billionaire that takes your fancy and have fun tormenting your investments!
 
-Hugs and kisses,
+Hugs and kisses,  
 Bettie Borgia (no relation)
